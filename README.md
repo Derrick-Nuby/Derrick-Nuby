@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-<a href="https://raw.githubusercontent.com/Derrick-Nuby/Derrick-Nuby/main/IRADUKUNDA_DERRICK_RESUME.pdf"> Get My Resume | Cv</a> </h1>
+<a href="https://raw.githubusercontent.com/Derrick-Nuby/Derrick-Nuby/main/IRADUKUNDA_DERRICK_RESUME.pdf" TARGET="_blank" rel="noreferrer noopener"> Get My Resume | Cv</a> </h1>
 
 <br>
  
