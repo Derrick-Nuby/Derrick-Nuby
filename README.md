@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derrick Nuby</h1>
 <h3 align="center">Web-Passionate full stack developer, eager to take part in this changing web. Well-versed in numerous concepts of Front-end Languages and Frameworks Strong background in Database Management Systems, excellent in version control systems and has a good understanding in web hosting platforms.</h3>
 
+<br>
 
 <h1 align="center">
 <a href="https://raw.githubusercontent.com/Derrick-Nuby/Derrick-Nuby/main/IRADUKUNDA_DERRICK_RESUME.pdf" TARGET="_blank" rel="noreferrer noopener"> Get My Resume | Cv</a> </h1>
