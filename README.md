@@ -4,27 +4,27 @@
 <br>
 
 <h1 align="center">
-<a href="https://raw.githubusercontent.com/Derrick-Nuby/Derrick-Nuby/main/IRADUKUNDA_DERRICK_RESUME.pdf" TARGET="_blank" rel="noreferrer noopener"> Get My Resume | Cv</a> </h1>
+<a href="https://drive.google.com/file/d/11lWHr-pYFj33itnPgD2HqrqUBnCxcNqo/view" TARGET="_blank" rel="noreferrer noopener"> Get My Resume | Cv</a> </h1>
 
 <br>
  
 - 🔭 I’m currently working on [TheHuye.Com](http://thehuye.com/)
 
-- 🌱 I’m currently learning **JavaScript and Backend Technologies**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
-- 👯 I’m looking to collaborate on **Any Projects invloving mostly JavaScript**
+- 👯 I’m looking to collaborate on **Any Projects invloving mostly Backend Developmer**
 
-- 🤝 I’m looking for help with **Building Social App**
+- 🤝 I’m looking for help with **Building Desktop Apps**
 
 - 👨‍💻 All of my projects are available at [https://derricknuby.com/](https://derricknuby.com/)
 
 - 📝 I regularly write articles on [https://derricknuby.com/](https://derricknuby.com/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Backend Web Devlopment**
 
-- 📫 How to reach me **iradukundaderrick7@gmail.com**
+- 📫 How to reach me **me@derricknuby.com**
 
-- 📄 Know about my experiences [https://derrick-nuby.github.io/CV-IN-HTML-CSS/](https://derrick-nuby.github.io/CV-IN-HTML-CSS/)
+- 📄 Know about my experiences [projects](https://derricknuby.com/project)
 
 - ⚡ Fun fact **I like memes**
 
