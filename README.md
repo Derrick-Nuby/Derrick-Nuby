@@ -34,3 +34,7 @@ Welcome to my GitHub profile! I'm a **full-stack software engineer** passionate 
 ---
 
 Feel free to explore my repositories and reach out to collaborate on exciting projects! 🚀
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Derrick-Nuby&icon=8&color=6)](https://visitcount.itsvg.in)
